@@ -1,6 +1,6 @@
 <?
 
-
+$response = new \stdClass();
 $alumnos = [];
 
 $alumno=new \stdClass(); 
